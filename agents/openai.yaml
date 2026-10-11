@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-shop-008"
+  short_description: "Products rebuilt as brick landmarks in a miniature world."
+  default_prompt: "Use $xxd-shop-008; require a product photo, keep the bundled original brief as the sole aesthetic authority, recommend a vertical canvas as the brief specifies, use only generic plastic bricks with no real brick brand marks or proprietary minifigures, keep logo and packaging text legible and unblocked after brick conversion, add no headline unless the user supplies exact copy, and deliver fresh PNGs in one flat task directory."
+
+policy:
+  allow_implicit_invocation: true
