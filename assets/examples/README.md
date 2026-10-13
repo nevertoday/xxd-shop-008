@@ -4,6 +4,10 @@
 
 | 文件 | 用途 | 实际像素 | 输入 | 文字方式 | visual_review |
 |---|---|---|---|---|---|
+| `c01-category-3x4-1086x1448.png` | 海报 | 1086x1448 | 原图 `pouch-green` | none | passed |
+| `c02-category-9x16-941x1672.png` | 开屏 | 941x1672 | 原图 `candle-jar` | none | passed |
+| `c03-category-3x4-1086x1448.png` | 海报 | 1086x1448 | 原图 `sunglasses-sport` | none | passed |
+| `c04-category-2x3-1024x1536.png` | 户外竖幅 | 1024x1536 | 原图 `lamp-black` | none | passed |
 | `s01-size-3x4-1086x1448.png` | 海报 | 1086x1448 | 原图 `kraft-pouch` | none | passed |
 | `s02-size-9x16-941x1672.png` | 开屏 | 941x1672 | 原图 `kraft-pouch` | none | passed |
 | `s03-size-2x3-1024x1536.png` | 户外竖幅 | 1024x1536 | 原图 `kraft-pouch` | none | passed |
@@ -19,5 +23,9 @@
 | 原图 | 来源 · 摄影师 |
 |---|---|
 | `sources/black-can.jpg` | [6iWUvNwKPSY](https://unsplash.com/photos/6iWUvNwKPSY) · @objecttyperaw |
+| `sources/candle-jar.jpg` | [smNzhFQRktg](https://unsplash.com/photos/smNzhFQRktg) · @jfdelp |
 | `sources/honey-jar.jpg` | [0em3k8ebFCs](https://unsplash.com/photos/0em3k8ebFCs) · @jonathanpielmayer |
 | `sources/kraft-pouch.jpg` | [luNZR9Mcys4](https://unsplash.com/photos/luNZR9Mcys4) · @scoutori |
+| `sources/lamp-black.jpg` | [hZTAJIPEoao](https://unsplash.com/photos/hZTAJIPEoao) · @nublson |
+| `sources/pouch-green.jpg` | [ZUVQlvUy0LE](https://unsplash.com/photos/ZUVQlvUy0LE) · @scoutori |
+| `sources/sunglasses-sport.jpg` | [n55O2wvZ2FY](https://unsplash.com/photos/n55O2wvZ2FY) · @barryalbert24 |

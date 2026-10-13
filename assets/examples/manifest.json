@@ -7,6 +7,98 @@
  "set": null,
  "items": [
   {
+   "id": "c01",
+   "section": "category",
+   "ratio": "3:4",
+   "input": "pouch-green",
+   "use": {
+    "zh": "海报",
+    "en": "Poster"
+   },
+   "product": {
+    "zh": "云坳 冷泡茶包",
+    "en": "YUN'AO cold-brew tea bags"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "茶饮",
+    "en": "Tea"
+   },
+   "hero": false,
+   "file": "c01-category-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "c02",
+   "section": "category",
+   "ratio": "9:16",
+   "input": "candle-jar",
+   "use": {
+    "zh": "开屏",
+    "en": "Splash screen"
+   },
+   "product": {
+    "zh": "雾屿 香薰蜡烛",
+    "en": "WUYU scented candle"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "香氛家居",
+    "en": "Home fragrance"
+   },
+   "hero": false,
+   "file": "c02-category-9x16-941x1672.png",
+   "pixels": "941x1672"
+  },
+  {
+   "id": "c03",
+   "section": "category",
+   "ratio": "3:4",
+   "input": "sunglasses-sport",
+   "use": {
+    "zh": "海报",
+    "en": "Poster"
+   },
+   "product": {
+    "zh": "迅屿 运动太阳镜",
+    "en": "XUNYU sport sunglasses"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "运动户外",
+    "en": "Sports & outdoor"
+   },
+   "hero": false,
+   "file": "c03-category-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "c04",
+   "section": "category",
+   "ratio": "2:3",
+   "input": "lamp-black",
+   "use": {
+    "zh": "户外竖幅",
+    "en": "Outdoor vertical banner"
+   },
+   "product": {
+    "zh": "暖岛 床头灯",
+    "en": "NUANDAO bedside lamp"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "家居",
+    "en": "Home"
+   },
+   "hero": false,
+   "file": "c04-category-2x3-1024x1536.png",
+   "pixels": "1024x1536"
+  },
+  {
    "id": "s01",
    "section": "size",
    "ratio": "3:4",
@@ -21,6 +113,10 @@
    },
    "text": "none",
    "visual_review": "passed",
+   "cat": {
+    "zh": "咖啡",
+    "en": "Coffee"
+   },
    "hero": true,
    "file": "s01-size-3x4-1086x1448.png",
    "pixels": "1086x1448"
@@ -40,6 +136,10 @@
    },
    "text": "none",
    "visual_review": "passed",
+   "cat": {
+    "zh": "咖啡",
+    "en": "Coffee"
+   },
    "hero": false,
    "file": "s02-size-9x16-941x1672.png",
    "pixels": "941x1672"
@@ -59,6 +159,10 @@
    },
    "text": "none",
    "visual_review": "passed",
+   "cat": {
+    "zh": "咖啡",
+    "en": "Coffee"
+   },
    "hero": false,
    "file": "s03-size-2x3-1024x1536.png",
    "pixels": "1024x1536"
@@ -78,6 +182,10 @@
    },
    "text": "none",
    "visual_review": "passed",
+   "cat": {
+    "zh": "咖啡",
+    "en": "Coffee"
+   },
    "hero": false,
    "file": "s04-size-4x5-1122x1402.png",
    "pixels": "1122x1402"
@@ -97,6 +205,10 @@
    },
    "text": "none",
    "visual_review": "passed",
+   "cat": {
+    "zh": "饮料",
+    "en": "Drinks"
+   },
    "hero": false,
    "file": "s05-category-9x16-941x1672.png",
    "pixels": "941x1672"
@@ -116,6 +228,10 @@
    },
    "text": "none",
    "visual_review": "passed",
+   "cat": {
+    "zh": "食品",
+    "en": "Food"
+   },
    "hero": false,
    "file": "s06-category-3x4-1086x1448.png",
    "pixels": "1086x1448"
@@ -135,6 +251,10 @@
    },
    "text": "exact zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "饮料",
+    "en": "Drinks"
+   },
    "hero": false,
    "file": "s07-special-3x4-1086x1448.png",
    "pixels": "1086x1448"

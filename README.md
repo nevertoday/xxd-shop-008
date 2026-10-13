@@ -15,6 +15,15 @@
 
 <p align="center"><a href="assets/examples/s01-size-3x4-1086x1448.png"><img src="assets/examples/preview/s01-size-3x4-1086x1448.webp" width="720" alt="海报"></a><br><sub>海报 · 3:4 · 1086x1448<br>山屿 咖啡豆 · <a href="assets/examples/sources/kraft-pouch.jpg">原图</a> · 不加字</sub></p>
 
+### 能做哪些品类
+
+每格一个品类，点开看大图；下面各段有用途、比例、像素和输入说明。
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-3x4-1086x1448.png"><img src="assets/examples/preview/c01-category-3x4-1086x1448.webp" height="130" alt="茶饮"></a><br><sub><b>茶饮</b><br>海报</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-9x16-941x1672.png"><img src="assets/examples/preview/c02-category-9x16-941x1672.webp" height="130" alt="香氛家居"></a><br><sub><b>香氛家居</b><br>开屏</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-3x4-1086x1448.png"><img src="assets/examples/preview/c03-category-3x4-1086x1448.webp" height="130" alt="运动户外"></a><br><sub><b>运动户外</b><br>海报</sub></td><td align="center" valign="top"><a href="assets/examples/c04-category-2x3-1024x1536.png"><img src="assets/examples/preview/c04-category-2x3-1024x1536.webp" height="130" alt="家居"></a><br><sub><b>家居</b><br>户外竖幅</sub></td><td align="center" valign="top"><a href="assets/examples/s05-category-9x16-941x1672.png"><img src="assets/examples/preview/s05-category-9x16-941x1672.webp" height="130" alt="饮料"></a><br><sub><b>饮料</b><br>开屏</sub></td><td align="center" valign="top"><a href="assets/examples/s06-category-3x4-1086x1448.png"><img src="assets/examples/preview/s06-category-3x4-1086x1448.webp" height="130" alt="食品"></a><br><sub><b>食品</b><br>海报</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/s01-size-3x4-1086x1448.png"><img src="assets/examples/preview/s01-size-3x4-1086x1448.webp" height="130" alt="咖啡"></a><br><sub><b>咖啡</b><br>海报</sub></td></tr>
+</table>
+
 ### 一个商品，适配每个位置
 
 同一商品、同一份原稿，每个比例都重新构图，不是裁切。
@@ -26,7 +35,8 @@
 ### 换一个品类也成立
 
 <table>
-<tr><td align="center" valign="top"><a href="assets/examples/s05-category-9x16-941x1672.png"><img src="assets/examples/preview/s05-category-9x16-941x1672.webp" height="220" alt="开屏"></a><br><sub>开屏 · 9:16 · 941x1672<br>冷川 无糖气泡水 · <a href="assets/examples/sources/black-can.jpg">原图</a> · 不加字</sub></td><td align="center" valign="top"><a href="assets/examples/s06-category-3x4-1086x1448.png"><img src="assets/examples/preview/s06-category-3x4-1086x1448.webp" height="220" alt="海报"></a><br><sub>海报 · 3:4 · 1086x1448<br>野蜂坡 百花蜜 · <a href="assets/examples/sources/honey-jar.jpg">原图</a> · 不加字</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-3x4-1086x1448.png"><img src="assets/examples/preview/c01-category-3x4-1086x1448.webp" height="200" alt="海报"></a><br><sub>海报 · 3:4 · 1086x1448<br>云坳 冷泡茶包 · <a href="assets/examples/sources/pouch-green.jpg">原图</a> · 不加字</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-9x16-941x1672.png"><img src="assets/examples/preview/c02-category-9x16-941x1672.webp" height="200" alt="开屏"></a><br><sub>开屏 · 9:16 · 941x1672<br>雾屿 香薰蜡烛 · <a href="assets/examples/sources/candle-jar.jpg">原图</a> · 不加字</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-3x4-1086x1448.png"><img src="assets/examples/preview/c03-category-3x4-1086x1448.webp" height="200" alt="海报"></a><br><sub>海报 · 3:4 · 1086x1448<br>迅屿 运动太阳镜 · <a href="assets/examples/sources/sunglasses-sport.jpg">原图</a> · 不加字</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/c04-category-2x3-1024x1536.png"><img src="assets/examples/preview/c04-category-2x3-1024x1536.webp" height="200" alt="户外竖幅"></a><br><sub>户外竖幅 · 2:3 · 1024x1536<br>暖岛 床头灯 · <a href="assets/examples/sources/lamp-black.jpg">原图</a> · 不加字</sub></td><td align="center" valign="top"><a href="assets/examples/s05-category-9x16-941x1672.png"><img src="assets/examples/preview/s05-category-9x16-941x1672.webp" height="200" alt="开屏"></a><br><sub>开屏 · 9:16 · 941x1672<br>冷川 无糖气泡水 · <a href="assets/examples/sources/black-can.jpg">原图</a> · 不加字</sub></td><td align="center" valign="top"><a href="assets/examples/s06-category-3x4-1086x1448.png"><img src="assets/examples/preview/s06-category-3x4-1086x1448.webp" height="200" alt="海报"></a><br><sub>海报 · 3:4 · 1086x1448<br>野蜂坡 百花蜜 · <a href="assets/examples/sources/honey-jar.jpg">原图</a> · 不加字</sub></td></tr>
 </table>
 
 ### 活动告示牌
