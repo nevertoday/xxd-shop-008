@@ -10,9 +10,34 @@
 
 > Original brief: [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English reading translation](references/original-prompt/en.md)
 
+<!-- xxd-samples:start -->
 ## Samples
 
-No samples yet. The commands below are usage examples, not visual evidence.
+<p align="center"><a href="assets/examples/s01-size-3x4-1086x1448.png"><img src="assets/examples/preview/s01-size-3x4-1086x1448.webp" width="720" alt="Poster"></a><br><sub>Poster · 3:4 · 1086x1448<br>SHANYU coffee beans · <a href="assets/examples/sources/kraft-pouch.jpg">source photo</a> · no added text</sub></p>
+
+### One product, every placement
+
+Same product, same brief: each ratio is a new composition, not a crop.
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s01-size-3x4-1086x1448.png"><img src="assets/examples/preview/s01-size-3x4-1086x1448.webp" height="200" alt="Poster"></a><br><sub>Poster · 3:4 · 1086x1448<br>SHANYU coffee beans · <a href="assets/examples/sources/kraft-pouch.jpg">source photo</a> · no added text</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-9x16-941x1672.png"><img src="assets/examples/preview/s02-size-9x16-941x1672.webp" height="200" alt="Splash screen"></a><br><sub>Splash screen · 9:16 · 941x1672<br>SHANYU coffee beans · <a href="assets/examples/sources/kraft-pouch.jpg">source photo</a> · no added text</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-2x3-1024x1536.png"><img src="assets/examples/preview/s03-size-2x3-1024x1536.webp" height="200" alt="Outdoor vertical banner"></a><br><sub>Outdoor vertical banner · 2:3 · 1024x1536<br>SHANYU coffee beans · <a href="assets/examples/sources/kraft-pouch.jpg">source photo</a> · no added text</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-4x5-1122x1402.png"><img src="assets/examples/preview/s04-size-4x5-1122x1402.webp" height="200" alt="Social post"></a><br><sub>Social post · 4:5 · 1122x1402<br>SHANYU coffee beans · <a href="assets/examples/sources/kraft-pouch.jpg">source photo</a> · no added text</sub></td></tr>
+</table>
+
+### Across categories
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s05-category-9x16-941x1672.png"><img src="assets/examples/preview/s05-category-9x16-941x1672.webp" height="220" alt="Splash screen"></a><br><sub>Splash screen · 9:16 · 941x1672<br>LENGCHUAN sugar-free sparkling water · <a href="assets/examples/sources/black-can.jpg">source photo</a> · no added text</sub></td><td align="center" valign="top"><a href="assets/examples/s06-category-3x4-1086x1448.png"><img src="assets/examples/preview/s06-category-3x4-1086x1448.webp" height="220" alt="Poster"></a><br><sub>Poster · 3:4 · 1086x1448<br>YEFENGPO wildflower honey · <a href="assets/examples/sources/honey-jar.jpg">source photo</a> · no added text</sub></td></tr>
+</table>
+
+### Campaign sign
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s07-special-3x4-1086x1448.png"><img src="assets/examples/preview/s07-special-3x4-1086x1448.webp" height="220" alt="Poster"></a><br><sub>Poster · 3:4 · 1086x1448<br>LENGCHUAN sugar-free sparkling water · <a href="assets/examples/sources/black-can.jpg">source photo</a> · exact copy (Chinese)</sub></td></tr>
+</table>
+
+<sub>All sample products are fictional demo brands, and their prices and specs are demo values. Source photos come from Unsplash; credits and licence are in [assets/examples/README.md](assets/examples/README.md). Each image is one complete generation: not retouched, composited or upscaled, with its real pixel size shown. Images that failed visual review were regenerated and are not shown. Click for full size.</sub>
+
+<!-- xxd-samples:end -->
 
 ## What it solves
 

@@ -1,0 +1,143 @@
+{
+ "skill": "008",
+ "special": {
+  "zh": "活动告示牌",
+  "en": "Campaign sign"
+ },
+ "set": null,
+ "items": [
+  {
+   "id": "s01",
+   "section": "size",
+   "ratio": "3:4",
+   "input": "kraft-pouch",
+   "use": {
+    "zh": "海报",
+    "en": "Poster"
+   },
+   "product": {
+    "zh": "山屿 咖啡豆",
+    "en": "SHANYU coffee beans"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "hero": true,
+   "file": "s01-size-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "s02",
+   "section": "size",
+   "ratio": "9:16",
+   "input": "kraft-pouch",
+   "use": {
+    "zh": "开屏",
+    "en": "Splash screen"
+   },
+   "product": {
+    "zh": "山屿 咖啡豆",
+    "en": "SHANYU coffee beans"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s02-size-9x16-941x1672.png",
+   "pixels": "941x1672"
+  },
+  {
+   "id": "s03",
+   "section": "size",
+   "ratio": "2:3",
+   "input": "kraft-pouch",
+   "use": {
+    "zh": "户外竖幅",
+    "en": "Outdoor vertical banner"
+   },
+   "product": {
+    "zh": "山屿 咖啡豆",
+    "en": "SHANYU coffee beans"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s03-size-2x3-1024x1536.png",
+   "pixels": "1024x1536"
+  },
+  {
+   "id": "s04",
+   "section": "size",
+   "ratio": "4:5",
+   "input": "kraft-pouch",
+   "use": {
+    "zh": "社媒",
+    "en": "Social post"
+   },
+   "product": {
+    "zh": "山屿 咖啡豆",
+    "en": "SHANYU coffee beans"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s04-size-4x5-1122x1402.png",
+   "pixels": "1122x1402"
+  },
+  {
+   "id": "s05",
+   "section": "category",
+   "ratio": "9:16",
+   "input": "black-can",
+   "use": {
+    "zh": "开屏",
+    "en": "Splash screen"
+   },
+   "product": {
+    "zh": "冷川 无糖气泡水",
+    "en": "LENGCHUAN sugar-free sparkling water"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s05-category-9x16-941x1672.png",
+   "pixels": "941x1672"
+  },
+  {
+   "id": "s06",
+   "section": "category",
+   "ratio": "3:4",
+   "input": "honey-jar",
+   "use": {
+    "zh": "海报",
+    "en": "Poster"
+   },
+   "product": {
+    "zh": "野蜂坡 百花蜜",
+    "en": "YEFENGPO wildflower honey"
+   },
+   "text": "none",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s06-category-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "s07",
+   "section": "special",
+   "ratio": "3:4",
+   "input": "black-can",
+   "use": {
+    "zh": "海报",
+    "en": "Poster"
+   },
+   "product": {
+    "zh": "冷川 无糖气泡水",
+    "en": "LENGCHUAN sugar-free sparkling water"
+   },
+   "text": "exact zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s07-special-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  }
+ ]
+}
