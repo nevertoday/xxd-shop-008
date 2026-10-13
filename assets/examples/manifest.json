@@ -10,7 +10,7 @@
    "id": "c01",
    "section": "category",
    "ratio": "3:4",
-   "input": "pouch-green",
+   "input": "product-yunao-coldtea+logo-yunao",
    "use": {
     "zh": "海报",
     "en": "Poster"
@@ -33,7 +33,7 @@
    "id": "c02",
    "section": "category",
    "ratio": "9:16",
-   "input": "candle-jar",
+   "input": "product-wuyu-candle+logo-wuyu",
    "use": {
     "zh": "开屏",
     "en": "Splash screen"
@@ -56,7 +56,7 @@
    "id": "c03",
    "section": "category",
    "ratio": "3:4",
-   "input": "sunglasses-sport",
+   "input": "product-xunyu-sunglasses+logo-xunyu",
    "use": {
     "zh": "海报",
     "en": "Poster"
@@ -79,7 +79,7 @@
    "id": "c04",
    "section": "category",
    "ratio": "2:3",
-   "input": "lamp-black",
+   "input": "product-nuandao-lamp-bed+logo-nuandao",
    "use": {
     "zh": "户外竖幅",
     "en": "Outdoor vertical banner"
@@ -102,7 +102,7 @@
    "id": "s01",
    "section": "size",
    "ratio": "3:4",
-   "input": "kraft-pouch",
+   "input": "product-shanyu-beans+logo-shanyu",
    "use": {
     "zh": "海报",
     "en": "Poster"
@@ -125,7 +125,7 @@
    "id": "s02",
    "section": "size",
    "ratio": "9:16",
-   "input": "kraft-pouch",
+   "input": "product-shanyu-beans+logo-shanyu",
    "use": {
     "zh": "开屏",
     "en": "Splash screen"
@@ -148,7 +148,7 @@
    "id": "s03",
    "section": "size",
    "ratio": "2:3",
-   "input": "kraft-pouch",
+   "input": "product-shanyu-beans+logo-shanyu",
    "use": {
     "zh": "户外竖幅",
     "en": "Outdoor vertical banner"
@@ -171,7 +171,7 @@
    "id": "s04",
    "section": "size",
    "ratio": "4:5",
-   "input": "kraft-pouch",
+   "input": "product-shanyu-beans+logo-shanyu",
    "use": {
     "zh": "社媒",
     "en": "Social post"
@@ -194,7 +194,7 @@
    "id": "s05",
    "section": "category",
    "ratio": "9:16",
-   "input": "black-can",
+   "input": "product-lc-sparkling+logo-lengchuan",
    "use": {
     "zh": "开屏",
     "en": "Splash screen"
@@ -210,14 +210,14 @@
     "en": "Drinks"
    },
    "hero": false,
-   "file": "s05-category-9x16-941x1672.png",
-   "pixels": "941x1672"
+   "file": "s05-category-9x16-940x1672.png",
+   "pixels": "940x1672"
   },
   {
    "id": "s06",
    "section": "category",
    "ratio": "3:4",
-   "input": "honey-jar",
+   "input": "product-yfp-honey+logo-yefengpo",
    "use": {
     "zh": "海报",
     "en": "Poster"
@@ -240,7 +240,7 @@
    "id": "s07",
    "section": "special",
    "ratio": "3:4",
-   "input": "black-can",
+   "input": "product-lc-sparkling+logo-lengchuan",
    "use": {
     "zh": "海报",
     "en": "Poster"
