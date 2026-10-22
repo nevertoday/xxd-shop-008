@@ -8,7 +8,19 @@
 
 </div>
 
-> 原始提示词：[简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md)
+**把你的商品放大成一座城市尺度的积木地标，周围一群积木小工人正在施工。**
+第一眼看到巨型商品，一眼认得出是谁；第二眼开始找小人在干什么。
+
+| 一眼看懂 | |
+|---|---|
+| **交给它** | 商品图（必需）；想要的场景或活动标题（可选） |
+| **你拿到** | 竖版、高完成度的积木微缩世界商业海报 |
+| **风格特点** | 城市尺度的积木商品 · 脚手架与吊臂 · 忙碌的积木工人 · 哑光塑料质感 · 明亮柔和的光 · 配色从商品长出来 |
+| **最适合** | 新品上市、品牌联名、节日主视觉、社媒话题图 |
+
+> **装好后，直接这样说：**
+>
+> /xxd-shop-008 这罐气泡水做一张积木工地海报
 
 <!-- xxd-samples:start -->
 ## 样张
@@ -26,7 +38,7 @@
 
 ### 一个商品，适配每个位置
 
-同一商品、同一份原稿，每个比例都重新构图，不是裁切。
+同一商品、同一套风格，每个比例都重新构图，不是裁切。
 
 <table>
 <tr><td align="center" valign="top"><a href="assets/examples/s01-size-3x4-1086x1448.png"><img src="assets/examples/preview/s01-size-3x4-1086x1448.webp" height="200" alt="海报"></a><br><sub>海报 · 3:4 · 1086x1448<br>山屿 咖啡豆 · <a href="assets/examples/sources/product-shanyu-beans.jpg">商品图</a> + <a href="assets/examples/sources/logo-shanyu.png">Logo</a> · 不加字</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-9x16-941x1672.png"><img src="assets/examples/preview/s02-size-9x16-941x1672.webp" height="200" alt="开屏"></a><br><sub>开屏 · 9:16 · 941x1672<br>山屿 咖啡豆 · <a href="assets/examples/sources/product-shanyu-beans.jpg">商品图</a> + <a href="assets/examples/sources/logo-shanyu.png">Logo</a> · 不加字</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-2x3-1024x1536.png"><img src="assets/examples/preview/s03-size-2x3-1024x1536.webp" height="200" alt="户外竖幅"></a><br><sub>户外竖幅 · 2:3 · 1024x1536<br>山屿 咖啡豆 · <a href="assets/examples/sources/product-shanyu-beans.jpg">商品图</a> + <a href="assets/examples/sources/logo-shanyu.png">Logo</a> · 不加字</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-4x5-1122x1402.png"><img src="assets/examples/preview/s04-size-4x5-1122x1402.webp" height="200" alt="社媒"></a><br><sub>社媒 · 4:5 · 1122x1402<br>山屿 咖啡豆 · <a href="assets/examples/sources/product-shanyu-beans.jpg">商品图</a> + <a href="assets/examples/sources/logo-shanyu.png">Logo</a> · 不加字</sub></td></tr>
@@ -53,33 +65,50 @@
 
 新品上市、品牌联名、节日 KV，常常需要一张“让人想停下来看细节”的图。普通产品照做不到，纯 3D 卡通又会把商品画得认不出来。
 
-**Shop 008** 的做法是讲一个小故事：商品被放大到城市尺度，由积木颗粒拼成，立在一个微缩世界中央；周围有脚手架、吊装机械、维修平台，一群积木小工人在搬运、打磨、擦拭、张贴、巡检。
-
-第一眼看到巨型商品，而且一眼认得出它是谁；第二眼才开始找小人在干什么。
-
-## 你需要准备
-
-- **商品图：** 必需。包装、配色、Logo 和文字布局都从这张图来，积木化之后仍要认得出。
-- **想要的场景（可选）：** 原稿会按品类自动延展场景，比如饮料配物流仓储，护肤品配洁净实验台。你有想法可以直接写进描述。
+**Shop 008** 的做法是讲一个小故事：商品被放大到城市尺度，由积木颗粒拼成，立在一个微缩世界中央；周围有脚手架、吊装机械、维修平台，一群积木小工人在搬运、打磨、擦拭、张贴、巡检。场景会按品类延展，比如饮料配物流仓储，护肤品配洁净实验台。
 
 ## 关于“乐高风”
 
-这是一种拼搭风格，不是一个品牌。画面里不会出现任何真实积木品牌的标识、字样或专有人仔造型，凸点上也不会。
+这是一种拼搭风格，不是一个品牌。画面里不会出现任何真实积木品牌的标识、字样或专有人仔造型，凸点上也不会；工人是方头方手的通用积木小人。
 
-## 快速判断
+## 你需要准备
 
-| 你关心的问题 | 回答 |
-|---|---|
-| **你会得到什么** | 一张竖版、高完成度的积木微缩世界商业海报 |
-| **一眼可辨的特点** | 城市尺度的积木商品 · 脚手架与吊臂 · 忙碌的积木工人 · 哑光 ABS 质感 · 明亮柔和的光 · 配色从商品长出 |
-| **它不会做什么** | 不让商品认不出来、不挡住包装文字、不做低幼卡通、不出现积木品牌标识 |
+- **商品图**（必需）：包装、配色、Logo 和文字布局都从这张图来，积木化之后仍要认得出。
+- **想要的场景**（可选）：有想法直接说，比如“物流仓库”“实验台”。
+- **活动标题**（可选）：会做成一块施工告示牌，放在不挡商品的位置。
 
-## 开始使用
+## 怎么用
+
+### 第一步：安装（只需一次）
 
 ```bash
 git clone https://github.com/nevertoday/xxd-shop-008.git
+mkdir -p ~/.claude/skills
 ln -s "$(pwd)/xxd-shop-008" ~/.claude/skills/xxd-shop-008
 ```
+
+Codex 用户把同一个文件夹链接到 `~/.codex/skills/xxd-shop-008`。装好后重开一次 AI 助手的会话。
+
+### 第二步：用大白话说出你要什么
+
+```text
+/xxd-shop-008 这罐气泡水做一张积木工地海报
+/xxd-shop-008 保温杯做一张 9:16 的，施工告示牌上写“新品施工中 · 9 月 20 日开放”
+/xxd-shop-008 咖啡豆做两张不同的施工故事
+```
+
+不用记参数。没说清的事（比如尺寸、张数），它会一次问齐；第二次用时可以直接沿用上次的设置。
+
+### 第三步：它会这样做
+
+1. 看你的商品图和描述，只问还没定的事；尺寸会按用途推荐比例，并告诉你像素。
+2. 这款默认不加文字（画面上的字只有商品包装本身），不会问文字方式；你给了活动标题才会加一块告示牌。
+3. 每个尺寸都重新构图，不是从一张图裁出来的。
+4. 交付前逐张检查：商品有没有被改、字有没有写错、有没有多出你没给的数字。不通过的会告诉你并重做。
+5. PNG 存进 `~/Desktop/xxd/xxd-shop-008/` 下新建的任务文件夹，把路径告诉你。
+
+<details>
+<summary><strong>进阶：命令参数写法（熟练后再看）</strong></summary>
 
 ```text
 # 竖版海报，画面上的字只有包装本身
@@ -92,16 +121,51 @@ ln -s "$(pwd)/xxd-shop-008" ~/.claude/skills/xxd-shop-008
 /xxd-shop-008 ./咖啡豆.png --size 3:4 --count 2 --text none
 ```
 
-常用参数：`--size`（原稿是竖版） · `--count` · `--text none / exact` · `--locale`。完整参数见[家族运行合同](references/shop-runtime.md)。
+常用参数：`--size`（这套风格是竖版） · `--count` · `--text none / exact` · `--locale`。完整参数见[运行说明](references/shop-runtime.md)。
 
-## 边界与信任
+</details>
 
-- 原始提示词逐字保存，是唯一的审美权威。
-- 商品识别度优先于一切施工细节：Logo、品牌名和主要包装文字必须可读，不被遮挡。
-- 交付 PNG 位图；每次调用都新建任务目录。
+## 常见问题
+
+**能做横版吗？**
+
+能，但这套风格是竖版构图，横版时巨型商品的地标感会变弱，它会先提醒你。
+
+**需要什么才能用？**
+
+三样东西：① 一个支持 Skills 的 AI 助手，比如 Claude Code 或 Codex；② 一个能出图的模型，可以是助手自带的出图能力，也可以是在 Codex 里配置好的、通过 Responses 接口出图的模型供应商（默认用 GPT Image 2）；③ 电脑上装有 Python 3.11 以上和 Pillow（`pip install pillow`）。
+
+**要花钱吗？能商用吗？**
+
+Skill 本身免费下载，出图费用由你自己的模型账户承担。本项目采用 PolyForm 非商业许可：个人学习、研究、测试可以直接用；用于店铺经营、接单交付等商业用途，需要先取得作者的书面授权，见文末“许可证”。
+
+**出来的图有多大？**
+
+你可以指定比例或准确像素。实际像素以模型返回为准，不会偷偷放大冒充高清，文件名里写的就是真实像素。
+
+**图里的字会写错吗？**
+
+AI 出图偶尔会写错字，或在品牌名旁多出 ® 这类小符号。交付前会逐张放大检查，发现问题就重做那一张；本页的样张都过了这一步。
+
+**会不会乱写价格、销量？**
+
+不会。画面上像事实的内容（价格、规格、产地、销量、获奖、认证……）只来自你提供的信息或商品图上看得清的字；没给就不写，也不放“¥XX”这种占位。
+
+**能一次处理很多商品吗？**
+
+能。把商品图文件夹交给它，每张图当作一件商品，尺寸和文字设置只问一次；每件商品的信息和文案互不串用。
+
+## 它的原则
+
+- **风格不走样：** 这款背后是一份成熟的商业设计提示词（[设计原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md)）。Skill 不改写它，也不另加配色和美术指导，只把你的商品、尺寸、文字和事实交给模型。
+- **商品不改款：** 有商品图时，造型、颜色、包装文字和 Logo 以图为准。
+- **只用你给的事实，** 每件商品各管各的，不借用别的商品、旧成品或样张里的内容。
+- **交付真实的 PNG 位图，** 不用 SVG 或代码绘图冒充；每次调用都新建任务文件夹。
+- 商品识别度优先于一切施工细节：Logo、品牌名和主要包装文字必须可读，不被脚手架和工人挡住。
 
 <!-- xxd-shop-tail -->
-## 项目结构
+<details>
+<summary><strong>项目结构（给开发者）</strong></summary>
 
 ```text
 xxd-shop-008/
@@ -122,6 +186,8 @@ xxd-shop-008/
         ├── zh-CN.md
         └── en.md
 ```
+
+</details>
 
 <!-- xxd-readme-ads:start -->
 ## 关于 XXD
