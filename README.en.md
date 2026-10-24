@@ -69,7 +69,7 @@ Launches, collaborations and holiday KVs often need an image people stop to expl
 
 ## About "LEGO style"
 
-It is a building style, not a brand. No real brick brand's logos, wordmarks or proprietary minifigure designs appear anywhere, studs included; the workers are generic square-headed brick figures.
+It is a building style, not a brand. No real brick brand's logos or wordmarks appear anywhere, studs included; the workers are finely made, lively miniature brick figures whose hands and faces stay clear up close.
 
 ## What to prepare
 
